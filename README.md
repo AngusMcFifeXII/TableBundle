@@ -8,6 +8,8 @@ information, with filtering and ordering features, with ajax queries.
 
 This bundle is a work in progress.
 
+Note: this branch is limited to symfony 3 since sensio/generator-bundle is deprecated.
+
 Links:
 ------
 - [Live demo](http://tabledemo.kilik.fr/)
